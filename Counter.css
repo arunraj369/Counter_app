@@ -1,0 +1,40 @@
+.buttn-dec{
+    margin: 8px;
+    border-radius: 7px;
+    padding: 5px;
+    border-width: 2px;
+    border-color: black;
+    background-color: #f50b0b;
+}
+.buttn-inc{
+    margin: 8px;
+    border-radius: 7px;
+    padding: 5px;
+    border-width: 2px;
+    border-color: black;
+    background-color: #00a223;
+}
+.buttn{
+    margin: 8px;
+    border-radius: 7px;
+    padding: 5px;
+    border-width: 2px;
+    border-color: black;
+    background-color: #f1f5f8;
+}
+.counter-value {
+    font-size: 75px;
+    font-weight: 900;
+}
+.counter-heading {
+    font-size: 50px;
+    font-family: "Roboto";
+    font-weight: 800;
+}
+.bg-container {
+    height: 100vh;
+    background-color: #f1f5f8;
+}
+body{
+    background-color: burlywood;
+}
